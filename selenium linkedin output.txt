@@ -1,0 +1,456 @@
+JOB DESCRIPTION
+
+O PicPay é uma plataforma de pagamento criada para quebrar barreiras e eliminar burocracias. Nós existimos para melhorar a vida das pessoas e só conseguimos fazer isso porque temos pessoas fantásticas aqui dentro. O que você vai fazer por aqui? Buscamos pessoas que sejam apaixonadas por construir aplicações inteligentes, distribuídas e de alta performance para milhões de novos usuários em todo o Brasil.
+
+
+
+
+
+
+
+Nossa missão é deixar a vida das pessoas mais fácil todos os dias, e você pode fazer parte disso! 🚀
+
+Fundado em Vitória (ES) em 2012, o PicPay é uma empresa de tecnologia que nasceu para tornar a vida financeira mais fácil ao reinventar a forma como as pessoas lidam com dinheiro, fazem compras e se comunicam. Em 2015, a empresa foi investida pelo grupo J&F, um dos maiores conglomerados empresariais do Brasil.
+
+Atualmente, com 60 milhões de usuários, o PicPay busca oferecer produtos e serviços para todos os momentos do dia a dia dos clientes, combinando os benefícios de cinco frentes em uma única plataforma: social, carteira digital, marketplace financeiro, PicPay Store e anúncios.
+
+
+
+Nossos valores, são nossos guias para tomada de decisões. São eles: Atitude de Dono, Disciplina, Determinação, Disponibilidade, Simplicidade, Humildade e Franqueza.
+
+
+
+Somos uma equipe diversa conectada pelos mesmos valores, e para cumprirmos essa missão, acreditamos que a diversidade é fundamental nessa jornada. O respeito, a ética, a busca pela equidade e a valorização da pluralidade são elementos inegociáveis e fazem parte da prática do nosso dia a dia aqui no PicPay.
+
+Nossos grupos de afinidades como o Afro (pessoas pretas), Inclui (pessoas com deficiência), Pride (LGBTQIA+) e Elas Que Lutem Juntas (mulheres), desenvolvem projetos e treinamentos recorrentes, além de ações estruturantes para que nosso ambiente tenha mais segurança e inclusão.
+
+Por isso, nossas vagas estão abertas para todas as pessoas, independente de gênero, religião, etnia, deficiência, idade, orientação sexual ou qualquer outro fator.
+
+💚
+
+
+
+Além de Assistência Médica e Odontológica, oferecemos Seguro de Vida e o PicPay Acolhe, um programa que cuida de você e seus familiares, com apoio jurídico, social, psicológico e financeiro. E claro, não podemos esquecer da nossa parceria com a Gympass.
+
+Por meio de um cartão de crédito, bandeira Visa, você recebe seu saldo de Alimentação ou Refeição e Mobilidade, com a opção de escolher o melhor uso do seu saldo.
+
+Sabemos que esse é um momento especial para uma família, e por isso oferecemos Licença Maternidade estendida de 6 meses, e de Paternidade também estendida de 20 dias.
+
+PPR - Participação nos Resultados do PicPay.
+
+Quer conhecer mais um pouco e estar sempre conectado com o PicPay? Acompanhe nossas redes sociais. 🌎
+######################################################
+
+######################################################
+
+######################################################
+Construir bons setups experimentais em ML que contribuam ao processo de pesquisa e inovação, com o objetivo de transformar/consolidar nossos produtos em serviços financeiros como referência em educação financeira, crédito, cobrança, empregabilidade, empreendedorismo e investimento.
+######################################################
+Atividades:
+Construção dos ETL's e criação de tabelas/procedures
+Integração entre sistemas OnPremisse e Cloud de forma Batch e Real Time
+Extração de informações do Banco de dados
+
+Requisitos:
+
+Benefícios:
+######################################################
+Somos uma empresa diversa, inclusiva, com pensamentos múltiplos e ideias inovadoras, que investe na Transformação Digital e preza pela inovação, tanto em nossos produtos quanto em nosso método de trabalho. Uma empresa que tem como valor o respeito e que se preocupa com o bem estar de nossos colaboradores. Se faz bem, a gente faz!
+
+
+
+NBS – Ribeirão Preto/SP
+
+Data Operation Team
+
+Gestor da área
+
+08:00-17:40.
+
+Teletrabalho (remoto)
+
+
+
+
+
+
+
+A Nestlé está há 100 anos presente em 99% dos lares brasileiros, líder mundial em alimentos e bebidas atua em 190 países com o propósito de revelar o poder dos alimentos para melhorar a qualidade de vida de todos, hoje e nas próximas gerações. Gostou de conhecer um pouco sobre a Nestle? Em nosso site você tem acesso a um pouco mais da nossa história, valores e compromissos sociais: https://www.nestle.com
+######################################################
+
+######################################################
+Buscamos Estágio em Dados
+
+Skills: Excel, SQL, Lógica de Programação.
+
+📋 Requisitos
+
+
+
+
+
+Vaga publicada na plataforma da Coodesh, fique atento ao redirecionamento que vai te levar para uma url coodesh.com com o pop-up personalizado de candidatura. 👋
+######################################################
+Job Description
+
+O Hub Digital faz parte da nossa área de Estratégia e Tecnologia, tendo papel de destaque na nossa transformação em uma empresa media tech e D2C. Aqui cuidamos da gestão de dados e do desenvolvimento dos nossos produtos digitais como Globoplay, Globo.com, família G (G1, Ge, Gshow) e Cartola, visando a melhor experiência de consumo, interação e relacionamento com os nossos usuários.
+
+Trabalhamos com uma variedade de tecnologias e linguagens para atingir nossos objetivos, além de estabelecermos uma relação contínua e crescente de compartilhamento de soluções com a comunidade de tecnologia!
+
+
+
+Nossa área de Big Data & AI é um dos maiores cases de Big Data no Brasil. Pelos nossos produtos passam mais de 100 milhões de usuários únicos e são produzidos centenas de milhares de conteúdos novos todos os meses. Se você gosta de gerar impacto positivo na vida de milhões de usuários essa vaga é pra você!
+
+Nesta vaga, você ira desenvolver modelos de dados definidos, que unem grandes volumes de dados de toda a organização, trabalhando em lógicas de transformação de dados para converter dados brutos em modelos que atendam às necessidades dos usuários.
+
+Buscamos o novo e o diferente. Queremos a dúvida, a tentativa, o debate. Quando erramos, aprendemos com nossos erros e compartilhamos nosso aprendizado.
+
+O real aprendizado acontece quando conhecemos novas ideias, novas pessoas, novas tecnologias. Estar aberto ao outro e à diversidade é fundamental para a criatividade, para a tomada de decisões, para o crescimento. Na Globo, estimulamos a diversidade de pensamento e de representatividade. Todas as pessoas são bem vindas nos nossos processos e nos nossos times.
+
+Main responsibilities
+
+
+
+
+
+
+
+
+
+
+
+
+Additional information
+
+
+
+
+Nossos processos seletivos estão acontecendo de forma 100% remota e nós encorajamos inscrições de qualquer lugar do Brasil e do mundo. #vempraglobo
+
+Seguindo o compromisso de contribuir para um ambiente seguro para nossas pessoas, informamos que a vacinação contra a Covid-19 é uma condição obrigatória para o trabalho na Globo, presencial ou a distância, e que o comprovante deverá ser apresentado como pré-requisito para a contratação.
+
+Quer saber mais sobre como é trabalhar na Globo? Vem acompanhar nosso dia a dia, desafios e conquistas nas nossas redes:
+
+https://www.linkedin.com/company/globo
+
+https://www.instagram.com/vempraglobo
+
+https://www.youtube.com/c/VemPraGlobo/
+
+Os seus dados pessoais serão utilizados para fins de seleção de candidatos para preenchimento das vagas abertas na Globo. Os dados pessoais coletados durante o processo seletivo dos candidatos que não forem admitidos neste momento poderão ser mantidos nos bancos de dados para consideração em futuros processos seletivos. Todos os dados coletados serão tratados segundo rígidos padrões de segurança da informação e em total respeito às leis de privacidade aplicáveis, incluindo a Lei 13.709/18, e nos termos de nossa política de privacidade, disponível no link:
+
+https://vempraglobo.g.globo/files/politica_de_privacidade.pdf
+
+Ao prosseguir você está ciente e de acordo para realização de sua candidatura nestes termos.
+
+✨somos globo✨
+
+A Globo é feita de gente que quer fazer diferente, fazer junto, fazer o futuro. Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia e brasilidade de sobra.
+
+Canais na TV aberta e por assinatura, produtos digitais como Globoplay, Cartola, G1, Ge, Gshow e outros serviços estão reunidos no mesmo lugar, na mesma Globo.
+
+Nos transformamos em uma empresa mediatech, colocando o cliente no centro, com foco na produção tanto de conteúdo como de tecnologias que permitem nosso público escolher o que, quando e como assistir.
+
+Queremos ser um ambiente onde todas as pessoas se encontram, com respeito e valorização das diferenças. Porque é assim que a gente reúne ideias, opiniões, pensamentos e histórias diversas. Quanto melhor representarmos aqui dentro as pessoas que buscamos informar e emocionar, maior será nossa capacidade de criar vínculos verdadeiros com os milhões de brasileiros e brasileiras que entram em contato com nossos produtos, histórias e notícias todos os dias.
+
+Para isso se tornar realidade contamos com o que temos de mais valioso: nossos times.
+
+Quer fazer parte dessa transformação também? #VemPraGlobo ;)
+
+acompanhe a gente 😉
+######################################################
+
+######################################################
+
+######################################################
+O Hub Digital faz parte da nossa área de Estratégia e Tecnologia, tendo papel de destaque na nossa transformação em uma empresa media tech e D2C. Aqui cuidamos da gestão de dados e do desenvolvimento dos nossos produtos digitais como Globoplay, Globo.com, família G (G1, Ge, Gshow) e Cartola, visando a melhor experiência de consumo, interação e relacionamento com os nossos usuários.
+######################################################
+A área de Tecnologia de Dados cumpre um papel fundamental para que as nossas estratégias de marketing sejam efetivas e causem o melhor impacto na experiência dos usuários de nosso clientes. Somos analíticos e é fundamental realizar estratégias e tomada de decisão baseada em dados!
+
+O time de Data Science é responsável desde a criação de relatórios automatizados, que integram os dados de diversas plataformas do cliente e facilita a visualização dos resultados de forma a possibilitar os melhores insights na tomada de decisão, até à produzir análises baseadas em dados, traduzindo todos os insights gerados em informações úteis e acessíveis a quem necessitar.
+
+Nosso time é organizado em squads multidisciplinares, possibilitando o acompanhamento dos dados desde seu processo de coleta até a visualização e geração de inteligência. Utilizando uma infraestrutura baseada em nuvem, contamos com as principais tecnologias do mercado para o desenvolvimento de novas visualizações e análises.
+
+No início do estágio, você aprenderá a tratar dados utilizando o Google BigQuery e Google Sheets e criar visualizações no Google Data Studio. Dentro da Raccoon, você terá oportunidade de aprofundar seus conhecimentos em ciência de dados, para realizar análises com embasamento estatístico e utilizar modelos de aprendizado de máquina no futuro.
+
+
+
+
+
+
+
+
+
+Plano Odontológico Porto Seguro;
+
+Auxílio Home Office
+
+Auxílio Creche para pessoas que possuem filho(a) de até 6 (seis) anos de idade
+
+Zenklub (plataforma de saúde emocional) - duas sessões mensais gratuitas e acesso para navegar por todos os conteúdos do app;
+
+Gym Pass;
+
+Day off de aniversário (folga sem descontos salariais), cupom de ifood e bônus na folha de pagamento;
+
+Parceria com a plataforma Vittude (desconto para fazer psicoterapia), ajuda estudos (MBA, pós)
+
+Descontos com diversos estabelecimentos de São Carlos (restaurantes, academias, estacionamentos, entre muitos outros).
+
+Flexibilidade de horário de trabalho, sendo alinhado constantemente com lideranças. Apenas pedimos disponibilidade no horário comercial para reuniões.
+
+
+
+A Agência Raccoon de Marketing Digital foi fundada em 2013 por dois ex-funcionários do Google. Desde então, nosso objetivo é entregar para nossos clientes , através da análise de dados e da tecnologia.
+
+Nosso time é formado por uma gama diversa de talentos que tiram o maior proveito da infinidade de dados online disponíveis e garantem um ambiente propício para o desenvolvimento profissional de todos!
+
+Em 2017, recebemos o prêmio de Melhor Agência da América Latina no Google Premier Partner Awards 2017 e, em 2019, ficamos em 13º lugar no prêmio Great Place To Work 2019.
+######################################################
+Requisitos
+Graduação cursando - Engenharias, Estatística, Ciência da Computação e/ou Sistemas de Informação;
+Excel avançado.
+
+Responsabilidades
+
+
+Horário De Trabalho
+
+
+Benefícios
+
+
+Diferenciais
+######################################################
+
+######################################################
+Nível: Estagiário
+
+Cursos de: Administração de banco de dados,Análise de sistemas,Análise e desenvolvimento de sistemas,Banco de dados,Ciências da computação,Computação,Computação e informática,Computação gráfica,Comunicação em computação gráfica,Defesa cibernética,Desenvolvimento de aplicações para web,Desenvolvimento de banco de dados,Desenvolvimento de jogos de entreterimento,Desenvolvimento de sistemas,Desenvolvimento de sistemas de informação,Desenvolvimento de sistemas de software,Desenvolvimento de sistemas distribuídos,Desenvolvimento de sistemas para a internet,Desenvolvimento de software para comércio eletrônico,Desenvolvimento de software para internet,Desenvolvimento de web site,Desenvolvimento para internet,Desenvolvimento para web,Desenvolvimento para web e comércio eletrônico,Engenharia da computação,Engenharia de automação,Engenharia de automação e controle,Engenharia de automação e sistemas,Engenharia de automação empresarial,Engenharia de automação industrial,Engenharia de computação - ênfase sistemas corporativos,Engenharia de computação e informação,Engenharia de informação,Engenharia de sistemas,Engenharia de software,Engenharia de teleinformática,Engenharia em sistemas digitais,Física computacional,Gerenciamento de redes de computadores,Gestão da informação,Gestão de tecnologia da informação,Gestão de internet e redes de computadores,Gestão de rede de computadores,Gestão de redes locais,Gestão de sistemas de informação,Gestão de sistemas informatizados - internet e redes,Informática,Informática e cidadania,Informática educacional,Informática para a gestão de negócios,Informática para negócios,Interdisciplinar em tecnologia da informação,Internet e redes de computadores,Jogos digitais,Matemática aplicada e computacional com habilitação em estatística econômica,Matemática computacional,Matemática e computação científica,Processamento de dados,Produção de software,Programação de computadores,Redes de computadores,Redes e ambientes operacionais,Segurança da informação,Sistema de informação,Sistemas de banco de dados,Sistemas de computação,Sistemas de informação,Sistemas de telecomunicações,Sistemas digitais,Sistemas e mídias digitais,Sistemas informatizados - internet e redes,Sistemas para internet,Software livre,Tecnologia da informação,Tecnologia da informação em web-designer,Tecnologia e mídias digitais,Tecnologias da informação e comunicação,Tecnologias digitais,Tecnologia em Big Data e inteligência Analítica,Licenciatura em Física ,Bacharelado em Física,Análise e desenvolvimento de sistemas,Information Technology (INFO),Tecnologia da Informação com enfase em Banco de Dados,Gestão de E-commerce,Tecnologia em Automação Industrial,Empreendedorismo e Inovação,Engenharia Informática,Gestão em Sistemas de Informação,Ciências e Tecnologia,Gestão da Tecnologia da Informação,Informática para Gestão de Negócios ,Tecnologia em Processos Gerenciais,Ciências de Dados,Técnico em Telecomunicação ,Técnica em Eletrotécnica
+
+Graduação - Tecnologia da Informação - Cursando
+
+Estagiário
+
+Segunda a sexta (horário flexível)
+
+
+
+Vale refeição, Vale alimentação, Auxílio internet
+######################################################
+Qual perfil nós buscamos?
+
+Na Dadosfera os nossos projetos são elaborados de acordo com a necessidade de cada cliente de maneira customizada proporcionando assim o verdadeiro IMPACTO por onde passamos.
+
+Como pessoa você trabalhará diretamente em contato com o CTO e as áreas de negócio, utilizando técnicas avançadas de Machine Learning e Data Analytics para entregar provas de conceito, demonstrações e outros estudos mostrando o grande valor que Análise de Dados Avançada pode entregar para os negócios. Também terá a oportunidade de criar artefatos como vídeos, apresentações e webinars para demonstrar o potencial da em entregar um ambiente produtivo para outros Cientistas de Dados e usuários da frente de negócio.
+
+É uma oportunidade única de e de e , num para ensinar toda a base para entrega de valor, usando AI e ML de verdade em nossas soluções.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Celebrar todas as diferenças e batalhar diariamente para tornar nosso time cada vez mais inclusivo. Nós não compactuamos com NENHUMA CONDUTA DISCRIMINATÓRIA. Aqui, todas as pessoas são sempre bem-vindas!
+######################################################
+
+######################################################
+
+######################################################
+Job Description
+
+#VemSerOmega
+
+Somos a maior geradora de energia sustentável do Brasil. Fazemos tecnologia e energia caminharem juntas e na mesma direção. Nosso propósito é transformar - por meio da energia limpa, barata e simples.
+
+
+
+
+
+
+
+
+
+O time tem como objetivo gerar valor aos acionistas e aos nossos coempreendedores a partir de análises, mensurando impactos financeiros e trabalhistas. Utilizando ferramentas de tratamento de dados e PowerBI, cruzamos KPIs para controle do orçamento, Remuneração e atividades Trabalhistas de toda a companhia, criando reports que embasam a tomada de decisão do corpo diretivo.
+
+Main responsibilities
+
+
+
+
+
+
+
+
+
+
+
+
+Additional information
+
+
+
+
+
+
+
+
+
+Quer transformar o mercado de energia com a gente?
+
+Somos a maior geradora de energia renovável do Brasil. Fazemos tecnologia e energia caminharem juntas e na mesma direção. Nosso propósito é transformar - por meio da energia limpa, barata e simples.
+
+Somos um time de profissionais engajados, com diversidade de experiências e capacidade técnica para desenvolver as melhores estratégias combinando alta performance com colaboração. Isso, porque somos todos co-empreendedores e compartilhamos do mesmo propósito. Trabalhamos em um ambiente dinâmico e ágil, que responde rapidamente a desafios, oportunidades e novas demandas do mundo.
+
+Somos eternos inconformados e, desde a nossa fundação, nos perguntamos constantemente se podemos construir novos caminhos, fazer melhor e ir além. Sem receitas prontas, recriamos as coisas complexas de forma simples. Nossas relações são baseadas em transparência com uma dose de empatia e, assim, evoluímos juntos.
+
+Proporcionamos ao nosso time mais do que carreira, jornada. Mais que crescimento, transformação.
+
+
+
+Para nos conhecer melhor
+######################################################
+Nesta posição, você ficará responsável por suportar nossos processos de análise e gestão de dados para tomada de decisão. Suportará na coleta e trabalho de dados para geração de relatórios e dashboards com a finalidade de fornecer indicadores das operações de compras aos nossos clientes e aos gestores internos.
+
+
+
+
+
+
+
+Cursando ensino superior preferencialmente em Engenharia, Ciência de Computação, Matemática ou Estatística;
+
+Domínio em Excel e Google Sheets;
+
+Boas habilidades de comunicação verbal e escrita;
+
+Perfil analítico e resolutivo.
+
+
+
+Conhecimentos em Power BI
+
+Conhecimentos em VBA
+
+
+
+R$ 1.000
+
+
+
+VR R$496,98 mês;
+
+Ajuda de custo (R$100,00);
+
+VT (o quanto for necessário);
+
+Convênio odontológico e saúde Sul América (copart);
+
+Seguro de Vida;
+
+GymPass.
+######################################################
+
+######################################################
+
+######################################################
+Job Description
+
+Nosso espírito inquieto nos faz estar sempre de olho nas tendências futuras. A tecnologia é fundamental para revolucionar toda a nossa jornada, da pesquisa e desenvolvimento de produtos até a venda final para nossos consumidores - e é através dela que estamos construindo o maior ecossistema de beleza do mundo.
+
+Cada novo processo, cada novo lançamento e cada nova solução exigem eficiência, habilidade e inovação. Só assim é possível manter a velocidade e o dinamismo do nosso crescimento e entregar beleza em cada canto do Brasil e em mais de 15 países. E é isso que o time do gb.tech está fazendo no Grupo Boticário.
+
+Main responsibilities
+
+
+
+A pessoa cientista de dados sênior que ocupará essa vaga atuará na Value Stream de Venda Direta com foco nos produtos digitais. Temos uma cultura dinâmica em que mudanças acontecem e continuarão acontecendo, e por isso é importante que a pessoa se sinta confortável em um ambiente em constante transformação, atuando em demandas da VS com pessoas dos mais diferentes perfis e níveis de senioridade.
+
+
+
+
+
+
+
+Additional information
+
+O Grupo Boticário promove a diversidade e queremos conosco pessoas que mudem o jogo e façam bonito, independente de sexo, raça, orientação sexual, religião, nacionalidade, idade ou deficiência.
+
+Se identifica com o nosso jeito? Então vem fazer beleza com a gente!
+
+
+
+Grupo Boticário
+
+Sabe o que a gente faz? Beleza!
+
+Uma beleza, diversa, transparente e gentil.
+
+A gente pesquisa, testa, inova. E tem sido assim por mais de 45 anos. Somos mais de 12 mil colaboradores vivendo o processo de sonhar com um produto até vê-lo chegar até você.
+
+Multiplicamos a beleza por meio do nosso ecossistema Nossas marcas é responsável pela distribuição das marcas próprias e de parceiros em farmácias e lojas multimarcas. Já são nossas plataformas de beleza digital. E a é a marca que desenvolve soluções financeiras para toda a cadeia de valor do Grupo Boticário.
+
+Das nossas indústrias saem mais de 350 milhões de produtos a cada ano. São mais de 4 mil pontos de venda sustentáveis em 1.750 cidades, o que nos torna a Pelo e-commerce e catálogos da venda direta, . E é por meio dessa atitude empreendedora que levamos .
+
+Aqui, criamos oportunidades para a beleza transformar a vida de cada um e assim transformar o mundo ao nosso redor.
+
+Conheça mais sobre nós
+
+Open for applications until: 30/09/2022
+######################################################
+487690BR
+
+Introdução
+
+Estamos buscando profissionais dedicados, originais, que desejam promover o progresso, ampliar sua rede de relacionamentos e também suas carreiras. Se você se vê como alguém que nunca para de aprender, que acredita que nenhum problema é grande demais para resolver e deseja liberar seu potencial, a IBM é para você.
+
+Seu papel e responsabilidades
+
+
+
+Todos os títulos das áreas estão apenas com o (a) em negrito. Por favor, reajustar para que o título fique todo em negrito.
+
+
+
+*Todas as nossas vagas são elegíveis para pessoas com deficiência ou reabilitadas*
+
+Profissional Requerido e Conhecimento Técnico
+
+
+
+Profissional Preferencial e Conhecimento Técnico
+
+
+
+Sobre a unidade de negócios
+
+A IBM Services é uma equipe de consultores de negócios, estratégia e tecnologia que projeta, constrói e executa sistemas e serviços fundamentais que são a espinha dorsal da economia mundial. A IBM Services faz parceria com as principais empresas do mundo em mais de 170 países para criar negócios mais inteligentes, reimaginando e reinventando por meio da tecnologia, com metodologias focadas em resultados, portfólio líder de mercado e experiência em operações e pesquisa de nível mundial que levam à inovação orientada por resultados e excelência duradoura.
+
+Sua vida na IBM
+
+O que importa para você na procura por seu próximo desafio na carreira? Talvez você queira se envolver em um trabalho que realmente mude o mundo. Que tal um lugar com oportunidades de carreira e desenvolvimento incríveis e diversificadas, onde você pode verdadeiramente descobrir sua paixão? Está procurando uma cultura de abertura, colaboração e confiança na qual todos têm voz? E quanto a tudo isso? Em caso afirmativo, a IBM poderia ser o próximo desafio de sua carreira. Junte-se a nós, não para fazer algo melhor, mas para experimentar coisas que você nunca imaginou. Impacto. Inclusão. Experiências ilimitadas. Faça o seu melhor trabalho sempre.
+
+Sobre a IBM
+
+A IBM é uma empresa líder em soluções de plataforma e cognitiva em nuvem. Reinventando incansavelmente desde 1911, somos o maior empregador de tecnologia e consultoria do mundo, com mais de 380.000 funcionários atendendo clientes em 170 países. Com o Watson, a plataforma de IA para empresas, impulsionada por dados, estamos construindo soluções baseadas na indústria para problemas do mundo real.
+
+Declaração de localização
+
+Para obter informações adicionais sobre os requisitos de localização, entre em contato com o recrutador responsável por acompanhar sua candidatura.
+
+Sendo você na IBM
+
+A IBM é comprometida com a criação de um ambiente diverso e tem orgulho de ser uma empregadora de oportunidades iguais. Todos os candidatos qualificados serão considerados para a vaga, sem considerar a raça, cor, religião, sexo, identidade ou expressão sexual, orientação sexual, nacionalidade, genética, deficiência, idade ou status como veterano. A IBM também está comprometida com o cumprimento de todas as práticas trabalhistas justas com relação ao status de cidadania e imigração.
